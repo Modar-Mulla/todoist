@@ -78,7 +78,7 @@ DATABASES = {
         'NAME': 'todo',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'mypassword',
+        'PASSWORD': '0000',
         'OPTIONS': {'charset': 'utf8mb4'}
     }
 }
